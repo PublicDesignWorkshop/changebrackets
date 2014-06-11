@@ -23,7 +23,7 @@ for Windows so these scripts should work there too.
 
 ### INSTALL
 ```bash
-git clone https://github.com/nerdsfornature/changebrackets.git
+git clone https://github.com/publicdesignworkshop/changebrackets.git
 cd changebrackets
 bundle
 ```
